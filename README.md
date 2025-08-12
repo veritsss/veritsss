@@ -50,6 +50,7 @@ Soy un profesional orientado a resultados con fuerte base técnica y habilidades
 
 - 📘 **Excel básico a avanzado** – Santander Open Academy
 - 📘 **Prompting responsable** - Santander Open Academy
+- 📘 **Introducción a la ciencia de datos** - Santander Open Academy
 
 *(Certificados disponibles en el portafolio)*
 
