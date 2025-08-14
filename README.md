@@ -53,7 +53,7 @@ Soy un profesional orientado a resultados con fuerte base técnica y habilidades
 - 📘 **Introducción a la ciencia de datos** - Santander Open Academy
 - 📘 **Comunicación efectiva** - Santander Open Academy
 
-*(Certificados disponibles en el portafolio)*
+*(Certificados disponibles en mi portafolio web)*
 
 ---
 
