@@ -1,12 +1,20 @@
 # 👋 Bienvenido al GitHub de Ignacio Vera Fernández
 
-Ingeniero Civil en Computación e Informática, enfocado en el **Análisis de Datos** con experiencia en **SQL**, **Python**, **Excel** y **Power BI**. Apasionado por transformar datos en decisiones claras mediante dashboards, storytelling y análisis exploratorios.
+<p align="center">
+  <a href="https://github.com/veritsss">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0CF7E9&size=25&center=true&vCenter=true&width=800&height=100&lines=Soy+Ignacio+Vera;Ingeniero+Civil+en+Computación+e+Informática;Enfocado+en+Análisis+de+Datos;Experto+en+SQL%2C+Python%2C+Excel+y+Power+BI;Apasionado+por+transformar+datos+en+decisiones;Storytelling+y+Dashboards+efectivos;Siempre+aprendiendo+y+creciendo+en+Datos">
+  </a>
+</p>
+
+
+
 
 ---
 
+
 ## 🧑‍💻 Sobre mí
 
-Soy un profesional orientado a resultados con fuerte base técnica y habilidades analíticas. Me motiva resolver problemas reales mediante el uso de datos y comunicar insights de forma clara y efectiva. Estoy en constante aprendizaje para dominar nuevas herramientas y metodologías en el área de ciencia de datos.
+Me presento, mi nombre es Ignacio Vera soy titulado en Ingeniería Civil en Computación e Informática, estoy enfocado en el **Análisis de Datos** con experiencia en **SQL**, **Python**, **Excel** y **Power BI**. Apasionado por transformar datos en decisiones claras mediante dashboards, storytelling y análisis exploratorios. Soy un profesional orientado a resultados con fuerte base técnica y habilidades analíticas. Me motiva resolver problemas reales mediante el uso de datos y comunicar insights de forma clara y efectiva. Estoy en constante aprendizaje para dominar nuevas herramientas y metodologías en el área de datos.
 
 ---
 
@@ -39,7 +47,7 @@ Soy un profesional orientado a resultados con fuerte base técnica y habilidades
 
 ## 🛠️ Habilidades técnicas
 
-- **Lenguajes:** SQL, Python, R (nivel inicial)  
+- **Lenguajes:** SQL, Python 
 - **Herramientas:** Power BI, Excel, Git, GitHub  
 - **Bases de datos:** PostgreSQL, MySQL  
 - **Otras:** Web scraping, pandas, matplotlib, storytelling con datos
@@ -52,8 +60,9 @@ Soy un profesional orientado a resultados con fuerte base técnica y habilidades
 - 📘 **Prompting responsable** - Santander Open Academy
 - 📘 **Introducción a la ciencia de datos** - Santander Open Academy
 - 📘 **Comunicación efectiva** - Santander Open Academy
+- 📘 **Liderazgo en el entorno digital** - Santander Open Academy
 
-*(Certificados disponibles en mi portafolio web)*
+*(Certificados disponibles en mi portafolio web)* <a href="https://www.iveraportafolio.cl">Portafolio Web</a>
 
 ---
 
